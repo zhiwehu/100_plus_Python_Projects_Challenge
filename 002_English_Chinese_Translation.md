@@ -58,7 +58,7 @@ Please save the Python as 2.py and run it in console：
 
 # 中英文翻译
 
-## 需求
+## 项目需求
 
 1. 在命令行窗口运行
 2. 当程序运行时，会要求我们输入中文或者英文单词或者句子，然后程序会自动翻译成对应的英语或者中文
@@ -108,5 +108,11 @@ while True:
 ```
 
 ## 运行测试
+将代码保存为2.py，然后在控制台运行：
+
+```
+python 2.py
+```
 
 ![image-20210505171540819](images/challenge2_cn.png)
+
