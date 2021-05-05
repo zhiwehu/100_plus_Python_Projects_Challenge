@@ -115,4 +115,3 @@ python 2.py
 ```
 
 ![image-20210505171540819](images/challenge2_cn.png)
-
