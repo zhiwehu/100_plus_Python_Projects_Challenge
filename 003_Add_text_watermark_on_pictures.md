@@ -276,4 +276,4 @@ python 3.py
 
 ![](images/challenge_3_5.png)
 
-> 注意，如果要增加汉字水印，请使用一个汉字字体
+> 注意，如果要增加汉字水印，请使用一个汉字字体，使用Roboto-Italic.ttf无法显示汉字。
