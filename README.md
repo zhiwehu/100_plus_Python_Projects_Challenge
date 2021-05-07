@@ -5,3 +5,6 @@ https://github.com/zhiwehu/100_plus_Python_Projects_Challenge/blob/main/001_1_mi
 
 ## 002 Chinese English Translation
 https://github.com/zhiwehu/100_plus_Python_Projects_Challenge/blob/main/002_English_Chinese_Translation.md
+
+## 003 Add text watermark on pictures
+https://github.com/zhiwehu/100_plus_Python_Projects_Challenge/blob/main/003_Add_text_watermark_on_pictures.md
