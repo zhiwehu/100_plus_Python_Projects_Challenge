@@ -138,7 +138,7 @@ def recognize_speech_from_mic(recognizer, microphone):
 
     # 调用语音识别，亲测微软bing国内可用，国外建议使用google
     try:
-        text = recognizer.recognize_bing(audio)
+        text = recognizer.recognize_google(audio)
     except Exception as e:
         print(e)
         text = None
@@ -167,6 +167,7 @@ if __name__ == '__main__':
         print('语音识别服务暂不可用，请稍后再试。')
 
 ```
+> 注意：本代码使用的是google语音识别，有些地区可能无法正常使用，请注册并使用其他的如微软Bing等语音识别服务等。
 
 ## 运行测试
 
