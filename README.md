@@ -15,3 +15,7 @@ https://github.com/zhiwehu/100_plus_Python_Projects_Challenge/blob/main/003_Add_
 ## 004 Check your English speech
 
 https://github.com/zhiwehu/100_plus_Python_Projects_Challenge/blob/main/004_Check_your_English_speech.md
+
+## 005 Check your English speech using baidu ai cloud ASR service
+
+https://github.com/zhiwehu/100_plus_Python_Projects_Challenge/blob/main/005_Check_your_English_speech_baidu.md
