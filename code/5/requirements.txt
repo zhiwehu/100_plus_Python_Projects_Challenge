@@ -1,0 +1,3 @@
+baidu-aip
+SpeechRecognition
+pyaudio
