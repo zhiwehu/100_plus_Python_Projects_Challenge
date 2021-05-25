@@ -19,3 +19,7 @@ https://github.com/zhiwehu/100_plus_Python_Projects_Challenge/blob/main/004_Chec
 ## 005 Check your English speech using baidu ai cloud ASR service
 
 https://github.com/zhiwehu/100_plus_Python_Projects_Challenge/blob/main/005_Check_your_English_speech_baidu.md
+
+## 006 Arithmetic Formatter
+
+https://github.com/zhiwehu/100_plus_Python_Projects_Challenge/blob/main/006_Arithmetic_Formatter.md
