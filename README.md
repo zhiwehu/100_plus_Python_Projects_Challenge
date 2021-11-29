@@ -23,3 +23,7 @@ https://github.com/zhiwehu/100_plus_Python_Projects_Challenge/blob/main/005_Chec
 ## 006 Arithmetic Formatter
 
 https://github.com/zhiwehu/100_plus_Python_Projects_Challenge/blob/main/006_Arithmetic_Formatter.md
+
+## 007 OpenCV Capture Camera Video
+
+https://github.com/zhiwehu/100_plus_Python_Projects_Challenge/blob/main/007_OpenCV_Capture_Camera_Video.md
