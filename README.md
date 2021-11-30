@@ -27,3 +27,6 @@ https://github.com/zhiwehu/100_plus_Python_Projects_Challenge/blob/main/006_Arit
 ## 007 OpenCV Capture Camera Video
 
 https://github.com/zhiwehu/100_plus_Python_Projects_Challenge/blob/main/007_OpenCV_Capture_Camera_Video.md
+
+## 008 OpenCV MediaPipe Hands Detection
+https://github.com/zhiwehu/100_plus_Python_Projects_Challenge/blob/main/008_OpenCV_MediaPipe_hand_detection.md
