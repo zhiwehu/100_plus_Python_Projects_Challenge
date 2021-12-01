@@ -1,0 +1,3 @@
+# My Python version is: 3.8.9
+opencv-python==4.5.4.60
+mediapipe==0.8.9
