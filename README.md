@@ -32,3 +32,4 @@ https://github.com/zhiwehu/100_plus_Python_Projects_Challenge/blob/main/007_Open
 https://github.com/zhiwehu/100_plus_Python_Projects_Challenge/blob/main/008_OpenCV_MediaPipe_hand_detection.md
 
 ## 009 OpenCV MediaPipe Hands Fingers Count
+https://github.com/zhiwehu/100_plus_Python_Projects_Challenge/blob/main/009_OpenCV_MediaPipe_hands_fingers_count.md
