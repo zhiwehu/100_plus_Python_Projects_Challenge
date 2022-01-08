@@ -33,3 +33,6 @@ https://github.com/zhiwehu/100_plus_Python_Projects_Challenge/blob/main/008_Open
 
 ## 009 OpenCV MediaPipe Hands Fingers Count
 https://github.com/zhiwehu/100_plus_Python_Projects_Challenge/blob/main/009_OpenCV_MediaPipe_hands_fingers_count.md
+
+## 010 Gobang game
+https://github.com/zhiwehu/100_plus_Python_Projects_Challenge/blob/main/010_gobang.md
