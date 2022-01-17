@@ -36,3 +36,6 @@ https://github.com/zhiwehu/100_plus_Python_Projects_Challenge/blob/main/009_Open
 
 ## 010 Gobang game
 https://github.com/zhiwehu/100_plus_Python_Projects_Challenge/blob/main/010_gobang.md
+
+## 011 Snake game
+https://github.com/zhiwehu/100_plus_Python_Projects_Challenge/blob/main/011_snake_game.md
