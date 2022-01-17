@@ -39,3 +39,6 @@ https://github.com/zhiwehu/100_plus_Python_Projects_Challenge/blob/main/010_goba
 
 ## 011 Snake game
 https://github.com/zhiwehu/100_plus_Python_Projects_Challenge/blob/main/011_snake_game.md
+
+## 012 Minesweeper game
+https://github.com/zhiwehu/100_plus_Python_Projects_Challenge/blob/main/011_snake_game.md

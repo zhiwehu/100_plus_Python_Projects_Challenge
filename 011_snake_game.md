@@ -1,4 +1,4 @@
-# 10 gobang
+# 11 Snake game
 
 ## Requirements
 
@@ -128,7 +128,7 @@ Please save the Python as snake.py and run it in console：
 python snake.py
 ```
 
-![Chanllenge 10](images/011_snake.png)
+![Chanllenge 11](images/011_snake.png)
 
 ----
 
@@ -262,4 +262,4 @@ move()
 python snake.py
 ```
 
-![挑战10](images/011_snake.png)
+![挑战11](images/011_snake.png)
