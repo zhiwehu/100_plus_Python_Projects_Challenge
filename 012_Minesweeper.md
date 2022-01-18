@@ -165,7 +165,7 @@ def start():
                     for f in fx:
                         ni = i + f[0]
                         nj = j + f[1]
-                        if (ni >= 0 and ni < n and ni >= 0 and nj < n and b[ni][nj] != -1):
+                        if (ni >= 0 and ni < n and nj >= 0 and nj < n and b[ni][nj] != -1):
                             b[ni][nj] += 1
 
 
@@ -446,7 +446,7 @@ def start():
                     for f in fx:
                         ni = i + f[0]
                         nj = j + f[1]
-                        if (ni >= 0 and ni < n and ni >= 0 and nj < n and b[ni][nj] != -1):
+                        if (ni >= 0 and ni < n and nj >= 0 and nj < n and b[ni][nj] != -1):
                             b[ni][nj] += 1
 
 
