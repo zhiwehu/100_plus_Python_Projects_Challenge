@@ -282,7 +282,7 @@ python minesweeper.py
 
 ----
 
-# 贪吃蛇小游戏
+# 扫雷小游戏
 
 ## 项目需求
 
