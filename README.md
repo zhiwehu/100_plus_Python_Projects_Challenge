@@ -42,3 +42,6 @@ https://github.com/zhiwehu/100_plus_Python_Projects_Challenge/blob/main/011_snak
 
 ## 012 Minesweeper game
 https://github.com/zhiwehu/100_plus_Python_Projects_Challenge/blob/main/012_Minesweeper.md
+
+## 013 Pose game
+https://github.com/zhiwehu/100_plus_Python_Projects_Challenge/blob/main/013_Posegame.md

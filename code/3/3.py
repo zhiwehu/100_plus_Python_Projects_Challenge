@@ -38,7 +38,7 @@ def get_position(image_width, image_height, text_width, text_height, position_id
         return (image_width - text_width - margin, image_height - text_height - margin)
 
 
-def add_watermark(filename, text, font_name='Roboto-Italic.ttf', font_size=20, font_opacity=50, position_id=9):
+def add_watermark(filename, text, font_name='PMingLiU.ttf', font_size=20, font_opacity=50, position_id=9):
     '''
     Add watermark function
     :param filename: origin image filename
