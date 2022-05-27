@@ -161,7 +161,7 @@ python game.py
 将代码保存为game.py，然后在控制台运行：
 
 ```
-python minesweeper.py
+python game.py
 ```
 
 ![挑战13](images/013_posegame.png)

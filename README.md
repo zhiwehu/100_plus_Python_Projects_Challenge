@@ -45,3 +45,6 @@ https://github.com/zhiwehu/100_plus_Python_Projects_Challenge/blob/main/012_Mine
 
 ## 013 Pose game
 https://github.com/zhiwehu/100_plus_Python_Projects_Challenge/blob/main/013_Posegame.md
+
+## 014 Tetris game
+https://github.com/zhiwehu/100_plus_Python_Projects_Challenge/blob/main/014_Tetris.md
