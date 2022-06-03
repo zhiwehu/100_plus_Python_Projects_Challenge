@@ -48,3 +48,6 @@ https://github.com/zhiwehu/100_plus_Python_Projects_Challenge/blob/main/013_Pose
 
 ## 014 Tetris game
 https://github.com/zhiwehu/100_plus_Python_Projects_Challenge/blob/main/014_Tetris.md
+
+## 015 2048 game
+https://github.com/zhiwehu/100_plus_Python_Projects_Challenge/blob/main/015_2048.md
