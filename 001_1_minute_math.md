@@ -176,7 +176,9 @@ if __name__ =='__main__':
 ## 测试运行
 
 将代码保存为1.py，然后在控制台运行：
-
+ok,I get it
+I think it is good for me 
+It is excellent
 ```
 python 1.py
 ```
