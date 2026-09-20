@@ -8,7 +8,7 @@ This repository started in 2021 and reached **15 projects**. In 2026, the challe
 
 ## Progress
 
-**15 / 100+ projects completed**
+**16 / 100+ projects completed**
 
 | # | Project | Area | Key skills |
 |---:|---|---|---|
@@ -27,6 +27,7 @@ This repository started in 2021 and reached **15 projects**. In 2026, the challe
 | 013 | [Pose Game](013_Posegame.md) | Vision / Game | pose detection, MediaPipe |
 | 014 | [Tetris](014_Tetris.md) | Game | 2D grid, game loop |
 | 015 | [2048](015_2048.md) | Game | Turtle, 2D lists |
+| 016 | [Smart File Organizer](projects/016-smart-file-organizer/README.md) | Files | pathlib, shutil, argparse, logging |
 
 ## 2026 Learning Path
 
