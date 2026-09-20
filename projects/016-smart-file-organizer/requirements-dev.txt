@@ -1,0 +1,2 @@
+# Development only - running the organizer itself needs no dependencies.
+pytest>=8.0
