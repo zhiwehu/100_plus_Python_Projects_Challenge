@@ -84,6 +84,10 @@ The idea is simple:
 
 **Learn Python by building things.**
 
+## License
+
+This project is licensed under the [MIT License](LICENSE).
+
 ---
 
 # 中文说明
@@ -95,3 +99,5 @@ The idea is simple:
 目标没有改变：**做 100+ 个真正可以运行、可以继续改进的小项目。**
 
 接下来的 016–030 计划见 [ROADMAP.md](ROADMAP.md)。
+
+本项目基于 [MIT License](LICENSE) 开源。
